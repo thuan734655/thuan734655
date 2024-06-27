@@ -52,9 +52,6 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://thuan734655.com" target="blank">
-    <img width="90" height="90" src="images/logo-thuan734655-transparent-bg-192x192.png" alt="thuan734655-blog" />
-  </a>
   <a href="https://www.facebook.com/tnv05" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="thuan734655-facebook" />
   </a>
