@@ -1,6 +1,6 @@
 <!-- thuan734655 -->
 <a href="#" target="_blank">
-  <img src="svg/thuan734655.svg" width="1200" alt="thuan734655-official" />
+  <img src="svg/earth.svg" width="1200" alt="thuan734655-official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
